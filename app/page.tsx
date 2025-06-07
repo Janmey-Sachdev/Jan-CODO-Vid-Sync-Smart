@@ -27,9 +27,7 @@ export default function Home() {
               <span className="block">with team members</span>
             </h1>
             <p className="mx-auto mt-6 max-w-xl sm:text-xl/relaxed">
-              Zegocloud is a global communication service provider which
-              provides them developer-friendly and powerful SDK & APIs
-            </p>
+             Jan CODO VidSync Smart Is A Easy Way To Call And Have Video Call Meeting With Your Team Members Or Family
             <div className="flex items-center justify-center gap-4 mt-6">
               <input
                 type="text"
